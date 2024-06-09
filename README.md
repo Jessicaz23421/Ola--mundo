@@ -1,2 +1,2 @@
-# Ola  mundo
- primeiro repositorio versionado
+# Olá,mundo!
+ primeiro repositório. 
